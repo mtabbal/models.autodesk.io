@@ -46,8 +46,8 @@
     "forge-oss": "*",
     "gen-uid": "*",
     "path": "*",
-    "serve-favicon": "*",
-	"fs": "*"
+    "serve-favicon": "*"
+//	"fs": "*"
   },
   "devDependencies": {
     "mocha": "*",
