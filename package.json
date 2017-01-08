@@ -47,7 +47,6 @@
     "gen-uid": "*",
     "path": "*",
     "serve-favicon": "*"
-//	"fs": "*"
   },
   "devDependencies": {
     "mocha": "*",
